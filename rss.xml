@@ -3,10 +3,10 @@
     <channel>
         <title>To Be A Better Man</title>
         <subtitle>方丈【阿杰】</subtitle>
-        <icon>http://www.zjmaster.top/images/favicon.ico</icon>
-        <link>http://www.zjmaster.top</link>
+        <icon>http://www.redbeetle.top/images/favicon.ico</icon>
+        <link>http://www.redbeetle.top</link>
         <author>
-          <name>西门阿浪</name>
+          <name>西门阿杰</name>
         </author>
         <description>欢迎对技术热爱的小伙伴一起探索知识的边界</description>
         <language>zh-CN</language>
@@ -15,10 +15,10 @@
         <category term="CS" />
         <category term="Java" />
         <item>
-            <guid isPermalink="true">http://www.zjmaster.top/elements/</guid>
+            <guid isPermalink="true">http://www.redbeetle.top/elements/</guid>
             <title>Elements</title>
-            <link>http://www.zjmaster.top/elements/</link>
-            <category term="hexo" scheme="http://www.zjmaster.top/tags/hexo/" />
+            <link>http://www.redbeetle.top/elements/</link>
+            <category term="hexo" scheme="http://www.redbeetle.top/tags/hexo/" />
             <pubDate>Fri, 24 Dec 2021 23:29:08 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;The purpose of this post is to help you make sure all of HTML elements can display properly. If you use CSS reset, don&#39;t forget to redefine the style by yourself.&lt;/p&gt;
 &lt;hr /&gt;
@@ -89,11 +89,11 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://www.zjmaster.top/MyLife/undergraduate-period/</guid>
+            <guid isPermalink="true">http://www.redbeetle.top/MyLife/undergraduate-period/</guid>
             <title>游龙当归海</title>
-            <link>http://www.zjmaster.top/MyLife/undergraduate-period/</link>
-            <category term="人生海海" scheme="http://www.zjmaster.top/categories/MyLife/" />
-            <category term="闲谈" scheme="http://www.zjmaster.top/tags/%E9%97%B2%E8%B0%88/" />
+            <link>http://www.redbeetle.top/MyLife/undergraduate-period/</link>
+            <category term="人生海海" scheme="http://www.redbeetle.top/categories/MyLife/" />
+            <category term="闲谈" scheme="http://www.redbeetle.top/tags/%E9%97%B2%E8%B0%88/" />
             <pubDate>Tue, 07 Dec 2021 11:15:20 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;今天不做技术分享，就扯一扯近些年遇到的人和事。&lt;/p&gt;
 &lt;hr /&gt;
@@ -200,24 +200,24 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://www.zjmaster.top/hello-world/</guid>
+            <guid isPermalink="true">http://www.redbeetle.top/hello-world/</guid>
             <title>Hello World</title>
-            <link>http://www.zjmaster.top/hello-world/</link>
-            <category term="介绍" scheme="http://www.zjmaster.top/tags/%E4%BB%8B%E7%BB%8D/" />
-            <category term="Hexo" scheme="http://www.zjmaster.top/tags/Hexo/" />
+            <link>http://www.redbeetle.top/hello-world/</link>
+            <category term="介绍" scheme="http://www.redbeetle.top/tags/%E4%BB%8B%E7%BB%8D/" />
+            <category term="Hexo" scheme="http://www.redbeetle.top/tags/Hexo/" />
             <pubDate>Sun, 07 Nov 2021 17:49:32 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3plc3BpYS50dy9oZXhv&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3plc3BpYS50dy9oZXhvL2RvY3M=&#34;&gt;documentation&lt;/span&gt; to learn how to use.&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://www.zjmaster.top/Computer-theory/CN/TCP%20three-way-handshake/</guid>
+            <guid isPermalink="true">http://www.redbeetle.top/Computer-theory/CN/TCP%20three-way-handshake/</guid>
             <title>网络五连鞭</title>
-            <link>http://www.zjmaster.top/Computer-theory/CN/TCP%20three-way-handshake/</link>
-            <category term="计科四大名著" scheme="http://www.zjmaster.top/categories/Computer-theory/" />
-            <category term="计算机网络" scheme="http://www.zjmaster.top/categories/Computer-theory/CN/" />
-            <category term="计算机理论" scheme="http://www.zjmaster.top/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%90%86%E8%AE%BA/" />
-            <category term="TCP" scheme="http://www.zjmaster.top/tags/TCP/" />
-            <category term="HTTP" scheme="http://www.zjmaster.top/tags/HTTP/" />
+            <link>http://www.redbeetle.top/Computer-theory/CN/TCP%20three-way-handshake/</link>
+            <category term="计科四大名著" scheme="http://www.redbeetle.top/categories/Computer-theory/" />
+            <category term="计算机网络" scheme="http://www.redbeetle.top/categories/Computer-theory/CN/" />
+            <category term="计算机理论" scheme="http://www.redbeetle.top/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%90%86%E8%AE%BA/" />
+            <category term="TCP" scheme="http://www.redbeetle.top/tags/TCP/" />
+            <category term="HTTP" scheme="http://www.redbeetle.top/tags/HTTP/" />
             <pubDate>Sun, 07 Nov 2021 17:49:32 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/zhaojie777/picture_repository/2020-12-6/1607184050506-%E5%9B%BE%E6%80%AA%E5%85%BD_c4f1078ae5b16d1db4b4df22cc327e34_19352.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;阿浪最近闭关修炼，每每想使 JAVA 大法更上一层楼，丹田里的码力却后继无力。于是遍访名师，拜入了江湖最近风头正盛的混元太极门 —— 马老师门下。&lt;/p&gt;
@@ -338,12 +338,12 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://www.zjmaster.top/InnoDB%20Page%20Structure/</guid>
+            <guid isPermalink="true">http://www.redbeetle.top/InnoDB%20Page%20Structure/</guid>
             <title>InnoDB的底层存储：Page Structure和B+Tree</title>
-            <link>http://www.zjmaster.top/InnoDB%20Page%20Structure/</link>
-            <category term="InnoDB" scheme="http://www.zjmaster.top/tags/InnoDB/" />
-            <category term="B+ Tree" scheme="http://www.zjmaster.top/tags/B-Tree/" />
-            <category term="Page Structure" scheme="http://www.zjmaster.top/tags/Page-Structure/" />
+            <link>http://www.redbeetle.top/InnoDB%20Page%20Structure/</link>
+            <category term="InnoDB" scheme="http://www.redbeetle.top/tags/InnoDB/" />
+            <category term="B+ Tree" scheme="http://www.redbeetle.top/tags/B-Tree/" />
+            <category term="Page Structure" scheme="http://www.redbeetle.top/tags/Page-Structure/" />
             <pubDate>Sun, 20 Jun 2021 16:43:00 +0800</pubDate>
             <description><![CDATA[ &lt;blockquote&gt;
 &lt;blockquote&gt;
@@ -447,11 +447,11 @@ CSV、FEDERATED、PERFORMANCE_SCHEMA、&lt;strong&gt;MyISAM&lt;/strong&gt;、&lt
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://www.zjmaster.top/markdown-tool/</guid>
+            <guid isPermalink="true">http://www.redbeetle.top/markdown-tool/</guid>
             <title>Markdown特殊功能</title>
-            <link>http://www.zjmaster.top/markdown-tool/</link>
-            <category term="Hexo" scheme="http://www.zjmaster.top/tags/Hexo/" />
-            <category term="教程" scheme="http://www.zjmaster.top/tags/%E6%95%99%E7%A8%8B/" />
+            <link>http://www.redbeetle.top/markdown-tool/</link>
+            <category term="Hexo" scheme="http://www.redbeetle.top/tags/Hexo/" />
+            <category term="教程" scheme="http://www.redbeetle.top/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 21:45:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;以下介绍可以使用的 markdown 或者标签代码。&lt;br /&gt;
@@ -1006,128 +1006,88 @@ c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
 &lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;---&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;title: 流程图显示&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;mermaid: true&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;---&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&amp;#96;&amp;#96;&amp;#96;mermaid&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;graph LR&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    A [Square Rect] -- Link text --&amp;gt; B ((Circle))&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    A --&amp;gt; C (Round Rect)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    B --&amp;gt; D &amp;#123;Rhombus&amp;#125;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    C --&amp;gt; D&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&amp;#96;&amp;#96;&amp;#96;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&amp;#96;&amp;#96;&amp;#96;mermaid&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;sequenceDiagram&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    loop Daily query&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        Alice-&amp;gt;&amp;gt;Bob: Hello Bob, how are you?&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        alt is sick&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            Bob-&amp;gt;&amp;gt;Alice: Not so good :(&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        else is well&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            Bob-&amp;gt;&amp;gt;Alice: Feeling fresh like a daisy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        end&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        opt Extra response&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            Bob-&amp;gt;&amp;gt;Alice: Thanks for asking&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        end&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    end&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;28&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&amp;#96;&amp;#96;&amp;#96;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;figure class=&#34;highlight mermaid&#34;&gt;&lt;figcaption data-lang=&#34;mermaid&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;graph&lt;/span&gt; LR&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    A&lt;span class=&#34;token text string&#34;&gt;[Square Rect]&lt;/span&gt; &lt;span class=&#34;token inter-arrow-label&#34;&gt;&lt;span class=&#34;token arrow-head arrow operator&#34;&gt;--&lt;/span&gt; &lt;span class=&#34;token label property&#34;&gt;Link text&lt;/span&gt; &lt;span class=&#34;token arrow operator&#34;&gt;--&gt;&lt;/span&gt;&lt;/span&gt; B&lt;span class=&#34;token text string&#34;&gt;((Circle))&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    A &lt;span class=&#34;token arrow operator&#34;&gt;--&gt;&lt;/span&gt; C&lt;span class=&#34;token text string&#34;&gt;(Round Rect)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    B &lt;span class=&#34;token arrow operator&#34;&gt;--&gt;&lt;/span&gt; D&lt;span class=&#34;token text string&#34;&gt;&amp;#123;Rhombus&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    C &lt;span class=&#34;token arrow operator&#34;&gt;--&gt;&lt;/span&gt; D&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;figure class=&#34;highlight mermaid&#34;&gt;&lt;figcaption data-lang=&#34;mermaid&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;sequenceDiagram&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;loop&lt;/span&gt; Daily query&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        Alice&lt;span class=&#34;token arrow operator&#34;&gt;-&gt;&gt;&lt;/span&gt;Bob&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; Hello Bob, how are you?&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;alt&lt;/span&gt; is sick&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            Bob&lt;span class=&#34;token arrow operator&#34;&gt;-&gt;&gt;&lt;/span&gt;Alice&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; Not so good &lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;else&lt;/span&gt; is well&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            Bob&lt;span class=&#34;token arrow operator&#34;&gt;-&gt;&gt;&lt;/span&gt;Alice&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; Feeling fresh like a daisy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;end&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;opt&lt;/span&gt; Extra response&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            Bob&lt;span class=&#34;token arrow operator&#34;&gt;-&gt;&gt;&lt;/span&gt;Alice&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; Thanks for asking&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;end&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;end&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://www.zjmaster.top/Computer-theory/OS/demo1/</guid>
-            <title>中断和指令周期</title>
-            <link>http://www.zjmaster.top/Computer-theory/OS/demo1/</link>
-            <category term="计科四大名著" scheme="http://www.zjmaster.top/categories/Computer-theory/" />
-            <category term="操作系统" scheme="http://www.zjmaster.top/categories/Computer-theory/OS/" />
-            <pubDate>Sun, 12 Apr 2020 20:46:25 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;家人们，文章正快马加鞭的编辑中，尽情期待！！！&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://www.zjmaster.top/Computer-theory/COP/demo2/</guid>
-            <title>ARM指令集体系结构</title>
-            <link>http://www.zjmaster.top/Computer-theory/COP/demo2/</link>
-            <category term="计科四大名著" scheme="http://www.zjmaster.top/categories/Computer-theory/" />
-            <category term="计算机组成原理" scheme="http://www.zjmaster.top/categories/Computer-theory/COP/" />
-            <pubDate>Sun, 12 Apr 2020 20:46:25 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;家人们，文章正快马加鞭的编辑中，尽情期待！！！&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://www.zjmaster.top/Computer-theory/COP/demo1/</guid>
-            <title>主存中存储单元地址的分配</title>
-            <link>http://www.zjmaster.top/Computer-theory/COP/demo1/</link>
-            <category term="计科四大名著" scheme="http://www.zjmaster.top/categories/Computer-theory/" />
-            <category term="计算机组成原理" scheme="http://www.zjmaster.top/categories/Computer-theory/COP/" />
-            <pubDate>Sun, 12 Apr 2020 20:46:25 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;家人们，文章正快马加鞭的编辑中，尽情期待！！！&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://www.zjmaster.top/Computer-theory/OS/demo2/</guid>
-            <title>调度和资源管理</title>
-            <link>http://www.zjmaster.top/Computer-theory/OS/demo2/</link>
-            <category term="计科四大名著" scheme="http://www.zjmaster.top/categories/Computer-theory/" />
-            <category term="操作系统" scheme="http://www.zjmaster.top/categories/Computer-theory/OS/" />
-            <pubDate>Sun, 12 Apr 2020 20:46:25 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;家人们，文章正快马加鞭的编辑中，尽情期待！！！&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://www.zjmaster.top/Computer-theory/CN/demo1/</guid>
-            <title>OSI七层模型与TCP/IP模型</title>
-            <link>http://www.zjmaster.top/Computer-theory/CN/demo1/</link>
-            <category term="计科四大名著" scheme="http://www.zjmaster.top/categories/Computer-theory/" />
-            <category term="计算机网络" scheme="http://www.zjmaster.top/categories/Computer-theory/CN/" />
-            <category term="计算机理论" scheme="http://www.zjmaster.top/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%90%86%E8%AE%BA/" />
-            <category term="TCP模型" scheme="http://www.zjmaster.top/tags/TCP%E6%A8%A1%E5%9E%8B/" />
-            <category term="OSI模型" scheme="http://www.zjmaster.top/tags/OSI%E6%A8%A1%E5%9E%8B/" />
-            <pubDate>Sun, 12 Apr 2020 20:46:25 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;家人们，文章正快马加鞭的编辑中，尽情期待！！！&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://www.zjmaster.top/Computer-theory/CN/demo2/</guid>
+            <guid isPermalink="true">http://www.redbeetle.top/Computer-theory/CN/demo2/</guid>
             <title>TCP协议详细分析</title>
-            <link>http://www.zjmaster.top/Computer-theory/CN/demo2/</link>
-            <category term="计科四大名著" scheme="http://www.zjmaster.top/categories/Computer-theory/" />
-            <category term="计算机网络" scheme="http://www.zjmaster.top/categories/Computer-theory/CN/" />
-            <category term="计算机理论" scheme="http://www.zjmaster.top/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%90%86%E8%AE%BA/" />
-            <category term="TCP" scheme="http://www.zjmaster.top/tags/TCP/" />
+            <link>http://www.redbeetle.top/Computer-theory/CN/demo2/</link>
+            <category term="计科四大名著" scheme="http://www.redbeetle.top/categories/Computer-theory/" />
+            <category term="计算机网络" scheme="http://www.redbeetle.top/categories/Computer-theory/CN/" />
+            <category term="计算机理论" scheme="http://www.redbeetle.top/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%90%86%E8%AE%BA/" />
+            <category term="TCP" scheme="http://www.redbeetle.top/tags/TCP/" />
             <pubDate>Sun, 12 Apr 2020 20:46:25 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;家人们，文章正快马加鞭的编辑中，尽情期待！！！&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://www.zjmaster.top/Computer-theory/DS/demo1/</guid>
+            <guid isPermalink="true">http://www.redbeetle.top/Computer-theory/OS/demo2/</guid>
+            <title>调度和资源管理</title>
+            <link>http://www.redbeetle.top/Computer-theory/OS/demo2/</link>
+            <category term="计科四大名著" scheme="http://www.redbeetle.top/categories/Computer-theory/" />
+            <category term="操作系统" scheme="http://www.redbeetle.top/categories/Computer-theory/OS/" />
+            <pubDate>Sun, 12 Apr 2020 20:46:25 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;家人们，文章正快马加鞭的编辑中，尽情期待！！！&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://www.redbeetle.top/Computer-theory/CN/demo1/</guid>
+            <title>OSI七层模型与TCP/IP模型</title>
+            <link>http://www.redbeetle.top/Computer-theory/CN/demo1/</link>
+            <category term="计科四大名著" scheme="http://www.redbeetle.top/categories/Computer-theory/" />
+            <category term="计算机网络" scheme="http://www.redbeetle.top/categories/Computer-theory/CN/" />
+            <category term="计算机理论" scheme="http://www.redbeetle.top/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%90%86%E8%AE%BA/" />
+            <category term="TCP模型" scheme="http://www.redbeetle.top/tags/TCP%E6%A8%A1%E5%9E%8B/" />
+            <category term="OSI模型" scheme="http://www.redbeetle.top/tags/OSI%E6%A8%A1%E5%9E%8B/" />
+            <pubDate>Sun, 12 Apr 2020 20:46:25 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;家人们，文章正快马加鞭的编辑中，尽情期待！！！&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://www.redbeetle.top/Computer-theory/DS/demo1/</guid>
             <title>图的单源最短路径</title>
-            <link>http://www.zjmaster.top/Computer-theory/DS/demo1/</link>
-            <category term="计科四大名著" scheme="http://www.zjmaster.top/categories/Computer-theory/" />
-            <category term="数据结构与算法" scheme="http://www.zjmaster.top/categories/Computer-theory/DS/" />
+            <link>http://www.redbeetle.top/Computer-theory/DS/demo1/</link>
+            <category term="计科四大名著" scheme="http://www.redbeetle.top/categories/Computer-theory/" />
+            <category term="数据结构与算法" scheme="http://www.redbeetle.top/categories/Computer-theory/DS/" />
             <pubDate>Sun, 12 Apr 2020 20:46:25 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;家人们，文章正快马加鞭的编辑中，尽情期待！！！&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://www.zjmaster.top/Computer-theory/DS/demo2/</guid>
-            <title>迪杰斯特拉算法</title>
-            <link>http://www.zjmaster.top/Computer-theory/DS/demo2/</link>
-            <category term="计科四大名著" scheme="http://www.zjmaster.top/categories/Computer-theory/" />
-            <category term="数据结构与算法" scheme="http://www.zjmaster.top/categories/Computer-theory/DS/" />
+            <guid isPermalink="true">http://www.redbeetle.top/Computer-theory/OS/demo1/</guid>
+            <title>中断和指令周期</title>
+            <link>http://www.redbeetle.top/Computer-theory/OS/demo1/</link>
+            <category term="计科四大名著" scheme="http://www.redbeetle.top/categories/Computer-theory/" />
+            <category term="操作系统" scheme="http://www.redbeetle.top/categories/Computer-theory/OS/" />
             <pubDate>Sun, 12 Apr 2020 20:46:25 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;家人们，文章正快马加鞭的编辑中，尽情期待！！！&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://www.zjmaster.top/Java/HighConcurrency/demo1/</guid>
-            <title>第一章 操作系统</title>
-            <link>http://www.zjmaster.top/Java/HighConcurrency/demo1/</link>
-            <category term="Java系列" scheme="http://www.zjmaster.top/categories/Java/" />
-            <category term="高并发" scheme="http://www.zjmaster.top/categories/Java/HighConcurrency/" />
+            <guid isPermalink="true">http://www.redbeetle.top/Computer-theory/COP/demo2/</guid>
+            <title>ARM指令集体系结构</title>
+            <link>http://www.redbeetle.top/Computer-theory/COP/demo2/</link>
+            <category term="计科四大名著" scheme="http://www.redbeetle.top/categories/Computer-theory/" />
+            <category term="计算机组成原理" scheme="http://www.redbeetle.top/categories/Computer-theory/COP/" />
             <pubDate>Sun, 12 Apr 2020 20:46:25 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;This post contains 3 tags. Make sure your theme can display all of the tags.&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;家人们，文章正快马加鞭的编辑中，尽情期待！！！&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://www.zjmaster.top/Java/Spring%20Fragment/demo1/</guid>
-            <title>第一章 操作系统</title>
-            <link>http://www.zjmaster.top/Java/Spring%20Fragment/demo1/</link>
-            <category term="Java系列" scheme="http://www.zjmaster.top/categories/Java/" />
-            <category term="Spring生态" scheme="http://www.zjmaster.top/categories/Java/Spring-Fragment/" />
+            <guid isPermalink="true">http://www.redbeetle.top/Computer-theory/COP/demo1/</guid>
+            <title>主存中存储单元地址的分配</title>
+            <link>http://www.redbeetle.top/Computer-theory/COP/demo1/</link>
+            <category term="计科四大名著" scheme="http://www.redbeetle.top/categories/Computer-theory/" />
+            <category term="计算机组成原理" scheme="http://www.redbeetle.top/categories/Computer-theory/COP/" />
             <pubDate>Sun, 12 Apr 2020 20:46:25 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;This post contains 3 tags. Make sure your theme can display all of the tags.&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;家人们，文章正快马加鞭的编辑中，尽情期待！！！&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://www.zjmaster.top/Java/Spring%20Cloud/demo1/</guid>
-            <title>第一章 操作系统</title>
-            <link>http://www.zjmaster.top/Java/Spring%20Cloud/demo1/</link>
-            <category term="Java系列" scheme="http://www.zjmaster.top/categories/Java/" />
-            <category term="微服务" scheme="http://www.zjmaster.top/categories/Java/Spring-Cloud/" />
-            <pubDate>Sun, 12 Apr 2020 20:46:25 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;This post contains 3 tags. Make sure your theme can display all of the tags.&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://www.zjmaster.top/Java/Spring%20Cloud/token/</guid>
+            <guid isPermalink="true">http://www.redbeetle.top/Java/Spring%20Cloud/token/</guid>
             <title>JWT(auth0):RS256非对称加密算法的Token加密、解密</title>
-            <link>http://www.zjmaster.top/Java/Spring%20Cloud/token/</link>
-            <category term="Java系列" scheme="http://www.zjmaster.top/categories/Java/" />
-            <category term="微服务" scheme="http://www.zjmaster.top/categories/Java/Spring-Cloud/" />
-            <category term="Token" scheme="http://www.zjmaster.top/tags/Token/" />
-            <category term="RS256" scheme="http://www.zjmaster.top/tags/RS256/" />
+            <link>http://www.redbeetle.top/Java/Spring%20Cloud/token/</link>
+            <category term="Java系列" scheme="http://www.redbeetle.top/categories/Java/" />
+            <category term="微服务" scheme="http://www.redbeetle.top/categories/Java/Spring-Cloud/" />
+            <category term="Token" scheme="http://www.redbeetle.top/tags/Token/" />
+            <category term="RS256" scheme="http://www.redbeetle.top/tags/RS256/" />
             <pubDate>Sun, 12 Apr 2020 20:46:25 +0800</pubDate>
             <description><![CDATA[ &lt;blockquote&gt;
 &lt;blockquote&gt;
@@ -1483,10 +1443,50 @@ eyJhdWQiOiLopb_pl6jpmL_mtaoiLCJkYXRhIjoiXCLopb_pl6jpmL_mtapcIiIsImlzcyI6IkhBTkdI
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://www.zjmaster.top/code-highlight/</guid>
+            <guid isPermalink="true">http://www.redbeetle.top/Computer-theory/DS/demo2/</guid>
+            <title>迪杰斯特拉算法</title>
+            <link>http://www.redbeetle.top/Computer-theory/DS/demo2/</link>
+            <category term="计科四大名著" scheme="http://www.redbeetle.top/categories/Computer-theory/" />
+            <category term="数据结构与算法" scheme="http://www.redbeetle.top/categories/Computer-theory/DS/" />
+            <pubDate>Sun, 12 Apr 2020 20:46:25 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;家人们，文章正快马加鞭的编辑中，尽情期待！！！&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://www.redbeetle.top/Java/HighConcurrency/demo1/</guid>
+            <title>第一章 操作系统</title>
+            <link>http://www.redbeetle.top/Java/HighConcurrency/demo1/</link>
+            <category term="Java系列" scheme="http://www.redbeetle.top/categories/Java/" />
+            <category term="高并发" scheme="http://www.redbeetle.top/categories/Java/HighConcurrency/" />
+            <pubDate>Sun, 12 Apr 2020 20:46:25 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;This post contains 3 tags. Make sure your theme can display all of the tags.&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://www.redbeetle.top/Java/Spring%20Cloud/demo1/</guid>
+            <title>第一章 操作系统</title>
+            <link>http://www.redbeetle.top/Java/Spring%20Cloud/demo1/</link>
+            <category term="Java系列" scheme="http://www.redbeetle.top/categories/Java/" />
+            <category term="微服务" scheme="http://www.redbeetle.top/categories/Java/Spring-Cloud/" />
+            <pubDate>Sun, 12 Apr 2020 20:46:25 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;This post contains 3 tags. Make sure your theme can display all of the tags.&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://www.redbeetle.top/Java/Spring%20Fragment/demo1/</guid>
+            <title>第一章 操作系统</title>
+            <link>http://www.redbeetle.top/Java/Spring%20Fragment/demo1/</link>
+            <category term="Java系列" scheme="http://www.redbeetle.top/categories/Java/" />
+            <category term="Spring生态" scheme="http://www.redbeetle.top/categories/Java/Spring-Fragment/" />
+            <pubDate>Sun, 12 Apr 2020 20:46:25 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;This post contains 3 tags. Make sure your theme can display all of the tags.&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://www.redbeetle.top/code-highlight/</guid>
             <title>Code Highlight Style test</title>
-            <link>http://www.zjmaster.top/code-highlight/</link>
-            <category term="hexo" scheme="http://www.zjmaster.top/tags/hexo/" />
+            <link>http://www.redbeetle.top/code-highlight/</link>
+            <category term="hexo" scheme="http://www.redbeetle.top/tags/hexo/" />
             <pubDate>Thu, 25 Jul 2019 16:43:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Make sure all the code blocks highlighted correctly. All the code samples are come from the demo of &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oaWdobGlnaHRqcy5vcmc=&#34;&gt;https://highlightjs.org&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;&lt;/p&gt;
